@@ -27,3 +27,12 @@ header.bg {
 .bg-bluestrano {
     background-color: #3a546d;
 }
+
+.col-count-2 {
+    column-count: 2;
+    gap: 200px;
+}
+
+.fa-brands {
+    font-size: 40px;
+}
